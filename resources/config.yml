@@ -1,0 +1,19 @@
+database:
+  driver: sqlite
+  parameters:
+    filename: "{@DATAFOLDER}elo.db"
+
+settings:
+  elo_per_kill: 10
+  elo_per_death: 10
+
+messages:
+  myelo: "§7Your Elo: §b{ELO}"
+  no_elo: "§cYou don't have any elo yet!"
+  elo_gained: "§b+{AMOUNT} §7Elo"
+  elo_lost: "§c-{AMOUNT} §7Elo"
+
+  leaderboard_title: "§l§8Top §b10 §8Elo"
+  leaderboard_format: "§b#{POSITION} §7{PLAYER}: §b{ELO}"
+  leaderboard_empty: "§cNo players in the leaderboard!"
+  leaderboard_footer: "§7Use §b/myelo §7to view your elo"

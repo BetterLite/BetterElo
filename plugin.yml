@@ -1,0 +1,12 @@
+name: BetterElo
+main: Mellooh\BetterElo\Main
+version: 1.0.0
+api: 5.0.0
+author: Mellooh
+description: "A simple Elo plugin with leaderboard"
+
+permissions:
+  betterelo.myelo:
+    default: true
+  betterelo.topelo:
+    default: true
