@@ -1,6 +1,8 @@
-# BetterElo
+<img width="2048" height="347" alt="minecraft_title (2)" src="https://github.com/user-attachments/assets/3223e16c-0298-4933-9e18-8189321702ec" />
 
-A PocketMine-MP 5.x plugin that adds an Elo ranking system to your server.
+<p align="center">
+  A PocketMine-MP 5.x plugin that adds an Elo ranking system to your server.
+</p>
 
 ## Features
 
